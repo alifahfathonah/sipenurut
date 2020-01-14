@@ -11,7 +11,7 @@ Si Penurut (Sistem Informasi Pencari Guru Private )
 - MySQL
 - Bootstrap
 
-## Installation
+## Instalasi
 
 Download dan ekstrak ke htdocs,
 
@@ -21,7 +21,7 @@ Buat database dengan nama "sipenurut" dan import file database.sql
 sipenurut
 ```
 
-## Usage
+## Penggunaan
 
 Jalankan dengan [http://localhost/sipenurut](http://localhost/sipenurut)
 
