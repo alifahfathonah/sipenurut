@@ -24,9 +24,10 @@ Login Admin
 Superadmin
 Username : Superadmin
 Password : 123456
-
-Admin
-Username : Admin
-Password : 123456
 ```
 
+Login Guru
+```
+Username : BmF1002
+Password : 123456
+```
