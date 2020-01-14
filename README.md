@@ -7,6 +7,7 @@ Si Penurut (Sistem Informasi Pencari Guru Private )
 ## Teknologi
 
 - PHP
+- Javascript
 - Codeigniter
 - MySQL
 - Bootstrap
