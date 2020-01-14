@@ -4,6 +4,13 @@ Si Penurut (Sistem Informasi Pencari Guru Private )
 
 ![Repo_List](assets/users/images/home/SiPenurut.png)
 
+## Teknologi
+
+- PHP
+- Codeigniter
+- MySQL
+- Bootstrap
+
 ## Installation
 
 Download dan ekstrak ke htdocs,
